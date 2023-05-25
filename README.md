@@ -66,4 +66,13 @@ https://github.com/nishantpandey4/RRT-and-its-types/assets/127569735/aad50207-63
 
 Drive link of all results: 
 
+
 https://drive.google.com/drive/folders/1iJ1UV4ABaA0cAIsR_7lLINq1CRS_0DOv?usp=sharing
+
+2D - Results:
+
+![Screenshot (34)](https://github.com/nishantpandey4/RRT-and-its-types/assets/127569735/506f9a5f-d13f-40cb-93d5-c32b0de7e5b4)
+
+
+![Screenshot (35)](https://github.com/nishantpandey4/RRT-and-its-types/assets/127569735/da973bf0-01c8-4e20-b95e-d2af4d6f8b91)
+
